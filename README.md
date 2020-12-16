@@ -1,2 +1,2 @@
 # ModuAiffel
-ModuAiffel Projecy
+ModuAiffel Project
